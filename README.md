@@ -2,7 +2,7 @@
 >The aim of this project is to compile static library called _libft_, that have 
 re-coded _libc_ functions. It is then been used in another projects.
 
-###functions:
+##functions:
 
 - memset
 - bzero
@@ -27,7 +27,7 @@ re-coded _libc_ functions. It is then been used in another projects.
 - toupper
 - tolower
 
-###Additional functions:
+##Additional functions:
 
 name|prototype|description
 ---|---|---

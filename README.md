@@ -1,6 +1,6 @@
 # Libft
->The aim of this project is to compile static library called _libft_, that have 
-re-coded _libc_ functions. It is then been used in another projects.
+>The aim of this project is to compile static library called _libft_ that have 
+recoded _libc_ functions. It is then been used in another projects.
 
 ## functions:
 

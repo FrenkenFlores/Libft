@@ -1,7 +1,5 @@
 # Libft
->The aim of this project is to compile static library called _libft_ that have 
-recoded _libc_ functions. It is then been used in another projects.
-
+>The aim of this project was to create a static library that would be an analog for libc standard library so we could use it in our other projects. We often use public libraries that might have some vulnerabilities, that's why in Enterprise software development often big companies develop their own libraries that are analog to the standard ones.
 ## functions:
 
 - memset
